@@ -57,3 +57,11 @@
   tagline: Swipe your mower through a farm maze and mow every patch of grass.
   email: mekaxstudio@gmail.com
   app_store: ""
+
+- slug: trafficfly
+  name: Traffic Fly
+  store_name: "Traffic Fly: Rocket Car"
+  genre: Racing
+  tagline: Weave through highway traffic, charge your rocket with near misses and flip over the car ahead.
+  email: mekaxstudio@gmail.com
+  app_store: ""
